@@ -69,10 +69,3 @@ python app.py
 
 
 ---
-
-🐙 Оформленный GitHub‑профиль (готовый текст для bio + README)
-
-🔹 Bio (короткое описание профиля)
-
-Junior Backend Developer | Python | FastAPI | Flask  
-Учусь, создаю учебные проекты и развиваюсь в backend-разработке.
